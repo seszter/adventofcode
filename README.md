@@ -1,0 +1,1 @@
+Solution for [AdventofCode](http://adventofcode.com) 2015
